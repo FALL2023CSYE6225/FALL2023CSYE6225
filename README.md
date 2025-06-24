@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Angular, Next.js**
 - 💬 Ask me about **JavaScript, React.js, Node.js, SpringBoot, Spring Framework, Java, Python**
-- 📫 How to reach me: **ajitp4292@gmail.com / patil.aji@northeastern.edu**
+- 📫 How to reach me: **patilcajit@gmail.com / patil.aji@northeastern.edu**
 
 ---
 
